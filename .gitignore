@@ -49,3 +49,6 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 
+
+.vercel
+.env*
